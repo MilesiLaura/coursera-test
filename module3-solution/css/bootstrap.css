@@ -4499,9 +4499,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #f8f8f8;
   border-color: #e7e7e7;
 }
-.navbar-default .navbar-brand {
+/*.navbar-default .navbar-brand {
   color: #777;
 }
+*/
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
   color: #5e5e5e;
@@ -4537,9 +4538,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-toggle:focus {
   background-color: #ddd;
 }
-.navbar-default .navbar-toggle .icon-bar {
+/*.navbar-default .navbar-toggle .icon-bar {
   background-color: #888;
 }
+*/
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
   border-color: #e7e7e7;
